@@ -1,3 +1,4 @@
+import math
 #Ejercicio_1 verificar si el computador es nuevo o viejo
 años_comp=int(input("Ingrese la cantidad de años de su computador: "))
 if(años_comp>=0 and años_comp<=2):
