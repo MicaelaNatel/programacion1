@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 #EJERCICIO 1
 list_data= [("Mateo Mercau", 46325074, "Chile"),("Juan Ignacio Lara", 41023056, "Brasil"),("Lautaro Yanzon", 42563963, "Estados Unidos"),("Nicolas Willemet", 42857964, "Francia")]
@@ -358,4 +357,3 @@ while True:
     else:
         print("Opción no válida. Por favor, elija una opción válida.")
 
->>>>>>> abbd1a326f0f474684aaeb43152429d8be016e71
